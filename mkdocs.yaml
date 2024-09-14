@@ -1,8 +1,78 @@
-site_name: zetradox
+site_name: Zetradox
+repo_url: https://github.com/zillionare/python-project-wizard
+repo_name: Python Project Wizard
+theme:
+  name: material
+  font:
+    text: Figtree
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: custom
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: lime
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/igorc1982
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/igorcrljenica
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/igorcrljenica/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/igor.crljenica.7/
 
 nav:
   - Home: index.md
-  - About: about.md
+  - Munich:
+    - Beer Halls: Munich/beer.md
+    - Restaurants: Munich/restaurants.md
+    - Public Transit: Munich/transportation.md
 
-theme:
-  name: 'material'
+
+extra_css:
+  - stylesheets/extra.css
+    
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: |
+  &copy; 2023 <a href="https://github.com/igorc1982"  target="_blank" rel="noopener">ZetraDocs</a>
