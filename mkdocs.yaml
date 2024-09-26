@@ -1,6 +1,6 @@
 site_name: Zetradox
-repo_url: https://github.com/zillionare/python-project-wizard
-repo_name: Python Project Wizard
+repo_url: https://github.com/igorc1982/zetradox
+repo_name: zetradox
 theme:
   name: material
   font:
@@ -32,7 +32,9 @@ theme:
         name: Switch to light mode    
       primary: teal
       accent: lime
-
+plugins:
+  - search
+  - blog
 extra:
   social:
     - icon: fontawesome/brands/github-alt
@@ -45,8 +47,8 @@ extra:
       link: https://www.facebook.com/igor.crljenica.7/
 
 nav:
-  - Home: index.md
-  - Munich:
+  - Welcome: index.md
+  - 'Munich':
     - Beer Halls: Munich/beer.md
     - Restaurants: Munich/restaurants.md
     - Public Transit: Munich/transportation.md

@@ -1,11 +1,12 @@
+![Renovate banner](/images/zetradox_banner.png){ loading=lazy }
 # Welcome to Zetradox
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-earth-americas: __[Language]__ – Choose out of the 60+ supported languages or add a new one
-- :material-page-layout-sidebar-left: __[Navigation]__ – Create a clear, concise, and comprehensive navigation structure
-- :material-page-layout-header: __[Header]__ – Customize the behavior of the header, add an announcement bar
-- :material-page-layout-footer: __[Footer]__ – Add links to your social media profiles or websites in the footer
+- :beer: [Beer Halls](/Munich/beer/) – Selection of highly recommended beer halls in Munich
+- :fork_and_knife: __Restaurants__ – Most recommended bakeries, coffee shops, restaurants, and Imbiss locations
+- :train2: __Public Transit__ – Info on Munich's public transportation system, inlcuding U-Bahn, S-Bahn, Bus, and Tram
+- :christmas_tree: __Christkindlmarkt__ – Best selection of Munich Christkindlmarkets, locations, and opening dates
 - :material-tab-search: __[Search]__ – Set up and configure search, running entirely in the user's browser
 - :material-tag-plus-outline: __[Tags]__ – Categorize your pages with tags and group related pages
 
