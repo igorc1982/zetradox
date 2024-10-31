@@ -1,6 +1,7 @@
 site_name: Zetradox
 repo_url: https://github.com/igorc1982/zetradox
 repo_name: zetradox
+site_rul: https://igorc1982.github.io/zetradox/
 theme:
   name: material
   font:
