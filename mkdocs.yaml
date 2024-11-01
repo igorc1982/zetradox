@@ -1,7 +1,7 @@
 site_name: Zetradox
-repo_url: https://github.com/igorc1982/zetradox
+repo_url: https://github.com/igorc1982/zetradox/
 repo_name: zetradox
-site_rul: https://igorc1982.github.io/zetradox/
+site_url: https://igorc1982.github.io/zetradox/
 theme:
   name: material
   font:
@@ -82,4 +82,4 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 copyright: |
-  &copy; 2023 <a href="https://github.com/igorc1982"  target="_blank" rel="noopener">ZetraDox</a>
+  &copy; 2023 <a href="https://github.com/igorc1982"  target="_blank" rel="noopener">Zetradox</a>
