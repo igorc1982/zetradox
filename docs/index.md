@@ -1,4 +1,4 @@
-![Renovate banner](/images/zetradox_banner.png){ loading=lazy }
+![Renovate banner](images/zetradox_banner.png){ loading=lazy }
 # Welcome to Zetradox
 
 <div class="grid cards" markdown>
