@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Christmas Markets
 
 <div class="result" markdown>

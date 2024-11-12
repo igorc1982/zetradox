@@ -1,6 +1,7 @@
 ---
 date:
   created: 2024-10-03
+draft: true
 ---
 
 # Quick Florida trip!
