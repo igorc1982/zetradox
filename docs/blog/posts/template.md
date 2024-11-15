@@ -12,6 +12,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
-|                                       |
-|:-------------------------------------:|
+|              Image Gallery               |
+|:----------------------------------------:|
 | ![pic](../../images/Munich.jpg "Munich") |
