@@ -31,3 +31,4 @@ We made it to Munich. We landed on time after a pretty comfortable flight but no
 | ![pic](../../images/PXL_19.jpg "Munich") |
 | ![pic](../../images/PXL_20.jpg "Munich") |
 | ![pic](../../images/PXL_21.jpg "Munich") |
+| ![pic](../../images/PXL_22.jpg "Munich") |
