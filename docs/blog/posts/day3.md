@@ -21,3 +21,7 @@ We had breakfast in the apartment and then headed once again to Altstadt (Old To
 | ![pic](../../images/PXL_44.jpg "Munich") |
 | ![pic](../../images/PXL_45.jpg "Munich") |
 | ![pic](../../images/PXL_46.jpg "Munich") |
+| ![pic](../../images/PXL_47.jpg "Munich") |
+| ![pic](../../images/PXL_48.jpg "Munich") |
+| ![pic](../../images/PXL_49.jpg "Munich") |
+| ![pic](../../images/PXL_50.jpg "Munich") |
