@@ -1,6 +1,6 @@
 ---
 date:
-  created: 2024-11-23
+  created: 2024-11-22
 ---
 
 # Our first full day
