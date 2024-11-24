@@ -27,5 +27,5 @@ We took off for a two hour train ride around 10am and as you would expect from a
 | ![pic](../../images/PXL_63.jpg "Munich") |
 | ![pic](../../images/PXL_64.jpg "Munich") |
 | ![pic](../../images/PXL_65.jpg "Munich") |
-| ![pic](../../images/PXL-66.jpg "Munich") |
+| ![pic](../../images/PXL_66.jpg "Munich") |
 | ![pic](../../images/PXL_67.jpg "Munich") |
